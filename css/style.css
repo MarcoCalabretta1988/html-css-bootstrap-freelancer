@@ -6,7 +6,7 @@ header{
 }
 
 footer{
-    height: 300px;
+    min-height: 100px;
 }
 
 section{
@@ -41,4 +41,14 @@ section{
 .visibility-red{
     background-color: red;
     border:2px dashed rgb(192, 245, 2);
+}
+
+/* FOOTER */
+
+.top-footer{
+    background-color: #3A546D;
+}
+
+.bottom-footer{
+    background-color: #2C3E50;
 }
