@@ -9,9 +9,6 @@ footer{
     min-height: 100px;
 }
 
-section{
-    border: 2px dashed black;
-}
 
 /* SECTION LAYOUT */
 #main-nav{
@@ -25,7 +22,6 @@ section{
 
 .jumbotron{
     height: 520px;
-    border: 2px dashed red;
 }
 
 
@@ -42,6 +38,14 @@ section{
     background-color: red;
     border:2px dashed rgb(192, 245, 2);
 }
+
+/* JUMBOTRON */
+
+.jumbotron img{
+    width: 250px;
+    height: 250px;
+}
+
 
 /* FOOTER */
 
