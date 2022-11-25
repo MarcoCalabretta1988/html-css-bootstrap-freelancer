@@ -9,6 +9,10 @@ footer{
     min-height: 100px;
 }
 
+img{
+    max-width: 100%;
+    display: inline-block;
+}
 
 /* SECTION LAYOUT */
 #main-nav{
