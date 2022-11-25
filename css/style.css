@@ -20,10 +20,6 @@ img{
   
 }
 
-.bg-wgreen{
-    background-color: #1ABC9C;
-}
-
 .jumbotron{
     height: 520px;
 }
@@ -31,16 +27,12 @@ img{
 
 
 /* UTILITY */
-
-.visibility-blue{
-    background-color: blue;
-    border:1px solid white;
-    height: 40px;
+.bg-wgreen{
+    background-color: #1ABC9C;
 }
 
-.visibility-red{
-    background-color: red;
-    border:2px dashed rgb(192, 245, 2);
+.txt-wgreen{
+    color:#1ABC9C;
 }
 
 /* JUMBOTRON */
